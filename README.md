@@ -11,7 +11,7 @@ Este projeto tem como objetivo analisar e revisar trechos de código desenvolvid
 - Analisar criticamente trechos de código React Native que utilizam Firebase, Expo e NativeWind.
 - Identificar boas práticas presentes no código.
 - Apontar potenciais problemas ou trechos com baixa legibilidade.
-- Sugerir melhorias visando otimização, legibilidade, manutenção e escalabilidade.
+- Sugerir melhorias visando `otimização, legibilidade, manutenção e escalabilidade.`
 
 ---
 
